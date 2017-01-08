@@ -2,9 +2,8 @@
   "name": "pure-ci",
   "version": "1.0.0",
   "description": "",
-  "main": "start.js",
   "scripts": {
-    "dev": "NODE_ENV=development nodemon start.js"
+    "start": "NODE_ENV=development nodemon start.js"
   },
   "keywords": [],
   "author": "LuckyJing",
